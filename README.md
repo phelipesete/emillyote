@@ -448,4 +448,16 @@ img {vertical-align: middle;}
 </style>
 </head>
 
+ </script>
+<body>
+
+<body class="bg" id="rakhi" style="background: linear-gradient(to bottom right, #f6ff00, #e1e8e7, #00ffe9);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;">
+	
+	
+<center><span style="font-size: 20px;"color: #ff077a;"</center>	
+<center>
   
