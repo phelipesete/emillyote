@@ -9,7 +9,7 @@
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
     <link href='https://fonts.googleapis.com/css?family=Sofia:&effect=neon' rel='stylesheet'>
-	  <link rel="icon" type="image/png" sizes="32x32" href="https://i.imgur.com/fcqTtzV.png">
+	  <link rel="icon" type="image/png" sizes="52x32" href="https://i.imgur.com/fcqTtzV.png">
   
   <style>
     i {
