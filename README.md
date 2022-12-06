@@ -449,14 +449,14 @@ img {vertical-align: middle;}
  </script>
 <body>
 
-<body class="bg" id="rakhi" style="background: linear-gradient(to bottom right, #03c3f8);
+<body class="bg" id="rakhi" style="background: linear-gradient(to bottom right, #03c3f8, #e1e8e7, #03c3f8);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;">
 	
 	
-<center><span style="font-size: 20px;"color: #ff077a;"</center>	
+<center><span style="font-size: 50px;"color: #ff077a;"</center>	
 <center>
   
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
