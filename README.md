@@ -616,7 +616,7 @@ var x = setInterval(function() {
 </body>
  
 
- <a class="footerbtn1" href="https://www.instagram.com/phelipe.sete/" target="_blank" title="emilly" class="recado">
+ <a class="footerbtn1" href="https://www.instagram.com/phelipe.sete/" target="_blank" title="emilly" class="rec">
 	<img width="20px" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhRAOWm_Z7eMWmDQJDeqxIKXq7YQyP2HDw&usqp=CAU">
  <b style="font-size: 26px;">Instagram</b>  
  </a>
