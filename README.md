@@ -464,7 +464,7 @@ img {vertical-align: middle;}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Wishing 2 -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:300px;height:50px"
+     style="display:inline-block;width:300px;height:100px"
      data-ad-client="ca-pub-4696491179456446"
      data-ad-slot="2568634816"></ins>
 <script>
