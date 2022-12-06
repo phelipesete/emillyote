@@ -1,3 +1,2 @@
 # emillyote
-recado
 hello word
