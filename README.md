@@ -461,3 +461,59 @@ img {vertical-align: middle;}
 <center><span style="font-size: 20px;"color: #ff077a;"</center>	
 <center>
   
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Wishing 2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:50px"
+     data-ad-client="ca-pub-4696491179456446"
+     data-ad-slot="2568634816"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</center>
+ <center> 
+<div class="container">
+    <div class="main-greeting">
+<div align="center html2canvas-ignore">
+     <div style="font-size: 20px; font-weight: 500; color: Black;">
+<p id="demo"></p>
+
+
+</div>
+<br><br>
+
+<center>
+<figure>
+	<h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                 var a=prompt("insira seu nome aki amorzinho\n\n👇👇👇👇👇"); 
+                 document.write(a);
+                </script> </h1>
+	<h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                    
+                    document.write(a);
+                      </script> </h1>
+	<h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                   
+                    document.write(a);
+                      </script> </h1>
+	<h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                    
+                    document.write(a);
+                      </script> </h1>
+    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                   
+                    document.write(a);
+                      </script> </h1>
+    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                   
+                    document.write(a);
+                      </script> </h1>
+    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+                    
+                    document.write(a);
+                      </script> </h1>
+
+</figure>
+ </center>
