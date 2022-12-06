@@ -464,10 +464,7 @@ img {vertical-align: middle;}
      data-ad-slot="2568634816"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
-
-</center>
  <center> 
 <div class="container">
     <div class="main-greeting">
