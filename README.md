@@ -446,7 +446,6 @@ img {vertical-align: middle;}
 </style>
 </head>
 
- </script>
 <body>
 
 <body class="bg" id="rakhi" style="background: linear-gradient(to bottom right, #03c3f8, #e1e8e7, #03c3f8);
@@ -466,7 +465,6 @@ img {vertical-align: middle;}
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 	
-</center>
  <center> 
 <div class="container">
     <div class="main-greeting">
