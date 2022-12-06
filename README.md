@@ -468,6 +468,7 @@ img {vertical-align: middle;}
  <center> 
 <div class="container">
     <div class="main-greeting">
+<div align="right">
 <div align="justify">
      <div style="font-size: 20px; font-weight: 500; color: Black;">
 <p id="demo"></p>
@@ -509,33 +510,33 @@ img {vertical-align: middle;}
 
 </figure>
  </center>
-<div class="vi" style="text-align: justify;">
+<div class="vi" style="text-align: left;">
 	
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"  align= "left" width="100" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%;"></a>
 
 <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
   document.write( ' ' );
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
-  <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4>
-  <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
       document.write( ' ' );
 </script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></p></h4>
-      <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
+      <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
         document.write( ' ' );
                           </script><br>Não tenho duvidas que fomos feitos um para o outro. Nada que houve entre nós aparenta ser por acaso<br></p>
- <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
+ <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
   document.write( ' ' );
                     </script><br>Nenhuma palavra é capaz de expressar tudo o que sinto por você. 1 ano de nós dois, meu amor. Foi os 365 dias mais Felizes da minha Vida. Te amo sem fim! <br></p></h4>
 
 <head>
 <html>
 <center>
-  <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br><br>
-  <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4>
 
