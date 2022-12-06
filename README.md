@@ -525,20 +525,16 @@ img {vertical-align: middle;}
 </a><a>
   <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
-</script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4></center> 
-<center>
+</script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4>
   <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
       document.write( ' ' );
-</script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></p></h4></center>
-    <center>
+</script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></p></h4>
       <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
         document.write( ' ' );
                           </script><br>Não tenho duvidas que fomos feitos um para o outro. Nada que houve entre nós aparenta ser por acaso<br></p></h4></center>
  <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
   document.write( ' ' );
-                    </script><br>Nenhuma palavra é capaz de expressar tudo o que sinto por você. 1 ano de nós dois, meu amor. Foi os 365 dias mais Felizes da minha Vida. Te amo sem fim! <br></p></h4></center>
-<center>
-
+                    </script><br>Nenhuma palavra é capaz de expressar tudo o que sinto por você. 1 ano de nós dois, meu amor. Foi os 365 dias mais Felizes da minha Vida. Te amo sem fim! <br></p></h4>
 
 <head>
 <html>
@@ -548,13 +544,12 @@ img {vertical-align: middle;}
                       </script><br><br>
   <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
-                      </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4></center>
+                      </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4>
 
 
 <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
  document.write( " - " );
-                      </script><br>11/12/2021<br></p></h4></center>
-<center>
+                      </script><br>11/12/2021<br></p></h4>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Link Ads -->
 <ins class="adsbygoogle"
@@ -599,15 +594,11 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = " ";
   }
 }, 1000);
-</script>       
-            </div>
+</script>
 
  <a class="footerbtn1" href="https://www.instagram.com/phelipe.sete/" target="_blank" title="emilly" class="rec">
 	<img width="20px" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhRAOWm_Z7eMWmDQJDeqxIKXq7YQyP2HDw&usqp=CAU">
- <b style="font-size: 26px;">phelipe.sete</b>  
+ <b style="font-size: 26px;"> Iinstagram</b>  
  </a>
-</center>
-
-</html>        
 
 	
