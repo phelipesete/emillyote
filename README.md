@@ -455,10 +455,7 @@ img {vertical-align: middle;}
     -o-background-size: cover;
     background-size: cover;">
 	
-	
-<center><span style="font-size: 50px;"color: #ff077a;"</center>	
-<center>
-  
+	 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Wishing 2 -->
 <ins class="adsbygoogle"
