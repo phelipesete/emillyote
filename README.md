@@ -539,27 +539,17 @@ img {vertical-align: middle;}
                     </script><br>Nenhuma palavra é capaz de expressar tudo o que sinto por você. 1 ano de nós dois, meu amor. Foi os 365 dias mais Felizes da minha Vida. Te amo sem fim! <br></p></h4></center>
 <center>
 
-<center>
-  <a>ㅤ<a>
-    </center>
-    <a>ㅤ</a>
-    <center>
-    <a>ㅤ</a>
-    </center>
-    <a>ㅤ</a>
-    <center>
-<div
-</center>
+
 <head>
 <html>
 <center>
   <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
-                      </script><br><br></p></h4></center>
+                      </script><br><br>
   <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4></center>
-                      </script><br><br></p></h4></center>
+
 
 <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
  document.write( " - " );
@@ -611,18 +601,13 @@ var x = setInterval(function() {
 }, 1000);
 </script>       
             </div>
-        </div>
-			
-</body>
- 
 
  <a class="footerbtn1" href="https://www.instagram.com/phelipe.sete/" target="_blank" title="emilly" class="rec">
 	<img width="20px" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhRAOWm_Z7eMWmDQJDeqxIKXq7YQyP2HDw&usqp=CAU">
- <b style="font-size: 26px;">Instagram</b>  
+ <b style="font-size: 26px;">phelipe.sete</b>  
  </a>
 </center>
 
-</script>
 </html>        
 
 	
