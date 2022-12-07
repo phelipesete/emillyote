@@ -518,18 +518,18 @@ img {vertical-align: middle;}
 <div class="vi" style="text-align: left;">
   document.write( ' ' );
 </center>
-<div class="vi" style="text-align: left;">
+<div class="vi" style="text-align:justify;">
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
-  <div style= 'text-align:right' class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                        
+  <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4>
-  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
       document.write( ' ' );
 </script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></p></h4>
-      <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
+      <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
         document.write( ' ' );
                           </script><br>Não tenho duvidas que fomos feitos um para o outro. Nada que houve entre nós aparenta ser por acaso<br></p>
- <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
+ <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
   document.write( ' ' );
                     </script><br>Nenhuma palavra é capaz de expressar tudo o que sinto por você. 1 ano de nós dois, meu amor. Foi os 365 dias mais Felizes da minha Vida. Te amo sem fim! <br></p></h4>
 
@@ -539,7 +539,7 @@ img {vertical-align: middle;}
   <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br><br>
-  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
+  <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 26px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4>
 
