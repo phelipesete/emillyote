@@ -479,7 +479,7 @@ img {vertical-align: middle;}
 
 <center>
 <figure>
-	<h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+	<h1 align="right" style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                  var a=prompt("insira seu nome aki amorzinho\n\n👇👇👇👇👇"); 
                  document.write(a);
                 </script> </h1>
