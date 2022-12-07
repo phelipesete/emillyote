@@ -511,12 +511,12 @@ img {vertical-align: middle;}
  </center>
 <div class="vi" style="text-align: left;">
 	
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"  align= "left" width="300" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 5%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"  align= "left" width="300" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 25%;"></a>
 
 <div class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                       
   document.write( ' ' );
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
-  <div style='text-align:right' class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                        
+  <div style= align:'right' class="busi"><h4><p style="text-transform: uppercase;font-size: 18px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4>
   <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 18px;color:black;"> <script type="text/javascript" language="Javascript">                                       
