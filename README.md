@@ -468,7 +468,7 @@ img {vertical-align: middle;}
  <center> 
 <div class="container">
     <div class="main-greeting">
-<div align="right">
+<div align="left">
      <div align="right" style="font-size: 20px; font-weight: 500; color: Black;">
 <p id="demo"></p>
 
@@ -478,7 +478,7 @@ img {vertical-align: middle;}
 
 <center>
 <figure>
-	<!-- <h1 align="right" style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+ <h1 align="right" style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                  var a=prompt("insira seu nome aki amorzinho\n\n👇👇👇👇👇");
                  document.write(a);
                 </script> </h1>
@@ -505,7 +505,7 @@ img {vertical-align: middle;}
     <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                     
                     document.write(a);
-                      </script> </h1> -->
+                      </script> </h1>
 
 </figure>
  </center>
@@ -594,8 +594,8 @@ var x = setInterval(function() {
 <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"  align= "left" width="300" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 50%;">
 
 <a class="footerbtn1" href="https://www.instagram.com/phelipe.sete/" target="_blank" title="emilly" class="recado">
-	<img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhRAOWm_Z7eMWmDQJDeqxIKXq7YQyP2HDw&usqp=CAU">
-<b style="font-size: 30px;"> Iinstagram</b>  
+	<img width="28px" height="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0AhRAOWm_Z7eMWmDQJDeqxIKXq7YQyP2HDw&usqp=CAU">
+<b style="font-size: 30px;"> Instagram</b>  
 </a>
 
 	
