@@ -469,7 +469,7 @@ img {vertical-align: middle;}
 <div class="container">
     <div class="main-greeting">
 <div align="left">
-     <div align="right" style="font-size: 20px; font-weight: 500; color: Black;">
+     <div align="left" style="font-size: 20px; font-weight: 500; color: Black;">
 <p id="demo"></p>
 
 
