@@ -505,8 +505,7 @@ img {vertical-align: middle;}
     <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                     
                     document.write(a);
-                      </script> </h1><script>
-
+                      </script> </h1>
 </figure>
  </center>
 <div class="vi" style="text-align: left;">
