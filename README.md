@@ -189,7 +189,7 @@ h1 {
   display:block;
   width:90%;
   line-height:1.5;
-  font:900 35px 'Concert One', sans-serif;
+  font:900 45px 'Concert One', sans-serif;
   position:absolute;
   color:#fff;
 }
