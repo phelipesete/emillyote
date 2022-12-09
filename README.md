@@ -1,6 +1,6 @@
 <html>
 <head>
-S2
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
 <title>amorzinho</title>
@@ -465,8 +465,7 @@ img {vertical-align: middle;}
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 	
-</center>
- <center> 
+ 
 <div class="container">
     <div class="main-greeting">
 <div align="left">
@@ -495,15 +494,15 @@ img {vertical-align: middle;}
                     
                     document.write(a);
                       </script> </h1>
-    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+        <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                    
                     document.write(a);
                       </script> </h1>
-    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+        <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                    
                     document.write(a);
                       </script> </h1>
-    <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+        <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                     
                     document.write(a);
                       </script> </h1>
@@ -523,16 +522,16 @@ img {vertical-align: middle;}
 (adsbygoogle = window.adsbygoogle || []).push({});
 
 
- </center>
+
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-	</script><br> ㅤ<br></p></h4><script>
+	</script><br><br><script>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-	</script><br> ㅤ<br></p></h4><script>
+	</script><br> -<br><script>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-	</script><br> ㅤ<br></p></h4><script>
+	</script><br> ㅤ<br>cript>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você. <br></p></h4>
