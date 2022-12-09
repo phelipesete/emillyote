@@ -523,12 +523,9 @@ img {vertical-align: middle;}
 (adsbygoogle = window.adsbygoogle || []).push({});
 
 
-
-<div class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
-<div class="vi" style="text-align: left;">
+ </center>
+<div class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                     
   document.write( ' ' );
-  
-<div class="vi" style="text-align:justify;">
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
   <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
