@@ -531,7 +531,7 @@ img {vertical-align: middle;}
 	</script><br> -<br><script>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-	</script><br> ㅤ<br><script>
+	</script><br> ㅤ<br>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você. <br></p></h4>
