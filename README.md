@@ -524,7 +524,7 @@ img {vertical-align: middle;}
 
 
 
-<div class="busi"><h4><p style="text-transform: uppercase;font-size: 25px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
+<div class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
 <div class="vi" style="text-align: left;">
   document.write( ' ' );
   
@@ -532,10 +532,10 @@ img {vertical-align: middle;}
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
   <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-</script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></h4>
+</script><br>A sua companhia me fez sair da zona de conforto. Eu achei que amor era aquilo que eu conhecia. Mas hoje tenho a certeza de que amar de verdade é algo singular, que só você tem para dar. Obrigado por existir. <br></p></h4>
   <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 28px;color:black;"> <script type="text/javascript" language="Javascript">                                       
       document.write( ' ' );
-</script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></h4>
+</script><br> No começo foi difícil. Nós precisamos nos entender. Tinha tudo para dar errado e não deu. Nem a distância atrapalhou a nossa sintonia, que ficou ainda mais forte com o tempo.  <br></p></h4>
       <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                       
         document.write( ' ' );
                           </script><br>Não tenho duvidas que fomos feitos um para o outro. Nada que houve entre nós aparenta ser por acaso<br></p>
