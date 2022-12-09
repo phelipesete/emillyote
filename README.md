@@ -465,11 +465,12 @@ img {vertical-align: middle;}
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 	
+</center>
  <center> 
 <div class="container">
     <div class="main-greeting">
 <div align="left">
-     <div align="left" style="font-size: 20px; font-weight: 500; color: Black;">
+     <div style="font-size: 20px; font-weight: 500; color: Black;">
 <p id="demo"></p>
 
 
@@ -478,7 +479,7 @@ img {vertical-align: middle;}
 
 <center>
 <figure>
- <h1 align="right" style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
+ <h1 style="text-transform: uppercase;"><script type="text/javascript" language="Javascript">
                  var a=prompt("insira seu nome aki amorzinho\n\n👇👇👇👇👇");
                  document.write(a);
                 </script> </h1>
@@ -508,13 +509,25 @@ img {vertical-align: middle;}
                       </script> </h1>
 </figure>
  </center>
-<div class="vi" style="text-align: left;">
+<div class="vi" style="text-align: center;">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Link Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4696491179456446"
+     data-ad-slot="1112298516"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
-<div class="busi"><h4><p style="text-transform: uppercase;font-size: 25px;color: black;"> <script type="text/javascript" language="Javascript">                         
-</center>
+<!--<div class="busi"><h4><p style="text-transform: uppercase;font-size: 25px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
 <div class="vi" style="text-align: left;">
-  document.write( ' ' );
+  document.write( ' ' ); -->
+  
 </center>
 <div class="vi" style="text-align:justify;">
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
@@ -545,17 +558,6 @@ img {vertical-align: middle;}
 <div class="busi"><h4><p style="text-transform: uppercase;font-size: 26px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
  document.write( " - " );
                       </script><br>11/12/2021<br></p></h4>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Link Ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4696491179456446"
-     data-ad-slot="1112298516"
-     data-ad-format="link"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 </div>
         </div>
