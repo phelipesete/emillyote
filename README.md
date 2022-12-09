@@ -1,6 +1,6 @@
 <html>
 <head>
-
+S2
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
 <title>amorzinho</title>
@@ -526,7 +526,13 @@ img {vertical-align: middle;}
  </center>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
-	
+	</script><br> ㅤ<br></p></h4><script>
+<div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
+    document.write( ' ' );
+	</script><br> ㅤ<br></p></h4><script>
+<div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
+    document.write( ' ' );
+	</script><br> ㅤ<br></p></h4><script>
 <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
     document.write( ' ' );
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você. <br></p></h4>
