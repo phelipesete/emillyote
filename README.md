@@ -524,11 +524,10 @@ img {vertical-align: middle;}
 
 
 
-<!--<div class="busi"><h4><p style="text-transform: uppercase;font-size: 25px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
+<div class="busi"><h4><p style="text-transform: uppercase;font-size: 25px;color: black;"> <script type="text/javascript" language="Javascript">                      </center>
 <div class="vi" style="text-align: left;">
-  document.write( ' ' ); -->
+  document.write( ' ' );
   
-</center>
 <div class="vi" style="text-align:justify;">
 </script><br>Quem diria! Nosso primeiro ano! Você é um presente de Deus na minha vida e quero partilhar muitos outros anos com você.<br></p>
   <div style= 'text-align:center' class="busi"><h4><p style="text-transform: uppercase;font-size: 28px;color: black;"> <script type="text/javascript" language="Javascript">                                        
@@ -547,9 +546,9 @@ img {vertical-align: middle;}
 <head>
 <html>
 <center>
-  <div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 28px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
+  <!-- div class="busi"><h4><p style='text-align:right' style="text-transform: uppercase;font-size: 28px;color:#ffffff;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
-                      </script><br><br>
+                      </script><br><br -->
   <div class="busi"><h4><p style='text-align:center' style="text-transform: uppercase;font-size: 33px;color:#5e6e6f;"> <script type="text/javascript" language="Javascript">                                       
     document.write( ' ' );
                       </script><br>EU AMO VOCE EMILLYOTE, MAIS QUE TUDO E TODOS!<br></p></h4>
