@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body { 
+  background-image:url("https://wallpapercave.com/wp/wp6764214.jpg");
+
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+ 
+  overflow: hidden;
+}
+
+body {
+  background-color: #ebeaff;
+}
+
+h1 {
+  margin: 20px;
+  color: #808081;
+  font-weight: 600;
+}
+
+.container {
+  height: 100vh;
+  width: 90vw;
+  
+  display: flex;
+  justify-content: center;
+  align-content: center;
+
+}
+
+.panel {
+  margin: 10px;
+  height: 80vh;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+
+  flex: 0.5;
+  position: relative;
+  transition: flex 0.7s ease-in;
+
+  cursor: pointer;
+}
+
+.panel h2 {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+
+  font-size: 30px;
+  color: #ffffff;
+  opacity: 0;
+}
+
+.panel.active {
+  flex: 5;
+}
+
+.panel.active h2 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+@media (max-width: 480px) {
+  .container{
+    width: 100vw;
+  }
+  .panel:nth-of-type(4), .panel:nth-of-type(5) {
+    display: none;
+  } 
+
+}
